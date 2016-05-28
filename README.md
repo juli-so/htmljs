@@ -1,4 +1,4 @@
-关于专栏刚上线的新功能【评注】http://www.html-js.com/article/2494
+<a href="http://www.html-js.com/article/2494" taregt="_blank">关于专栏刚上线的新功能【评注】</a>
 今天下午突然蹦出个点子，想给专栏加一个任意点评的功能。这种点评不止是针对整个文章的评论，而是更有针对性的直接指出文章某个位置的问题或者讨论。
 
 于是，晚上跟朋友喝完烧酒吃完火锅回家后，开动。
@@ -18,8 +18,14 @@ enter image description here
 enter image description here
 
 本站专栏文章皆为原创，转载请注明出处（带有 前端乱炖 字样）和本文的显式链接(http://www.html-js.com/article/2494)，本站和作者保留随时要求删除文章的权利！
-//https://github.com/juli-so/htmljs/blob/master/assets/js/tips.js
-https://github.com/juli-so/htmljs/commit/6f5f4d3f4583e192c7aae6a7ee9874007f81703e （via juli-so's search:
+
+
+//
+juli-so
+评注功能源代码在：
+1.https://github.com/juli-so/htmljs/blob/master/assets/js/tips.js
+2.https://github.com/juli-so/htmljs/commit/6f5f4d3f4583e192c7aae6a7ee9874007f81703e 
+via juli-so's search:
 1.https://github.com/xinyu198736/htmljs/search?utf8=%E2%9C%93&q=%E8%AF%84%E6%B3%A8
 2.https://github.com/xinyu198736/htmljs/search?utf8=%E2%9C%93&q=hide_tip&type=Code
 and then go to https://github.com/juli-so/htmljs/tree/master/assets/js
